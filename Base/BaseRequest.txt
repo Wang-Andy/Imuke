@@ -1,0 +1,132 @@
+2019-11-13 10:58:21,539-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 42, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 10:58:37,115-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 10:58:48,688-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 10:59:09,995-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:03:22,101-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:04:03,673-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:05:00,501-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:05:42,484-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:06:17,916-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:06:26,723-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:06:36,140-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 43, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2019-11-13 11:06:53,811-ERROR-Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "C:/Users/18521/PycharmProjects/imuke/Base/Base_request.py", line 44, in run_main
+    res=json.loads(res)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\18521\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

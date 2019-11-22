@@ -1,0 +1,17 @@
+https://nav.smartscreen.microsoft.com/windows/browser/edge/service/navigate/4
+
+data={
+"config":{"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}},"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}}},
+"correlationId":"13C9F229-3C4F-48E8-92DE-0A2814A27FB1",
+"destination":{"ip":null,"uri":"https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=notepad&oq=notepad&rsv_pq=e5296f7b000170b0&rsv_t=e523JW%2B7WQrra9zw1tseWJDT0NALFo7Nc2oueF3cmBca1H6uGim1ZAW%2Fmhk&rqlang=cn&rsv_enter=0&rsv_dl=tb&inputT=13&rsv_sug3=8&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&rsv_sug4=778&rsv_sug=1"},
+"forceServiceDetermination":false,
+"identity":{"caller":{"locales":["zh-CN","zh-Hans","zh","en-US","en"],"process":{"application":{"$type":"package","fullName":"Microsoft.MicrosoftEdge_44.18362.387.0_neutral__8wekyb3d8bbwe"},"creationTime":"132167906956425490","id":7784,"owner":"S-1-5-21-2830676389-2276531689-2431227595-1001"}},"client":{"data":{"customSettings":"F95BA787499AB4FA9EFFF472CE383A14","customSynchronousLookupUris":"0","script":"288225407871007797721230069131519167447.rel.v2","synchronousLookupUris":"637081923499383082","topTraffic":"170540185939602997400506234197983529371"},"version":"2814750970478593"},"device":{"architecture":9,"browser":{"edge":"Microsoft.MicrosoftEdge_44.18362.387.0_neutral__8wekyb3d8bbwe","internetExplorer":"9.11.18362.0"},"cloudSku":false,"enterprise":null,"family":3,"id":"th2K7ZmP1hcQRcEDQ2iFbKDxs9FskI0rEHlKjP6uYuM=:1","locale":"zh-CN","netJoinStatus":2,"onlineIdTicket":"t=GwAWAd9tBAAUbd7jjTETE61kse6bFnP4+gMN5XcOZgAAEFAVb4FUqR/B80qovMgMcZbgAFeiombz68i9KN4sRtfBA/r1sZZRpH4KW/hLbI5Q9MhDAZJKgGgw3laRh8LuqYII2XRp/gQ5+yjjK2AFz14u46GdgLUPbT73p+pag0Uf9O4S582sqdSSMJjCwi5Ndn2FjMPbSN1Xqp0+kgpIbl6p72cu9cD7xsyxXZflJV7h4+CM/Lyx+S+zZBP+x1vaQcpyuUfaSl2HWNZoglpGoYlmeeRN7pv1h2vyKTRUbSzAa8bOuQt7GenELXwPWGJCFD4HdQuw26EE9V+f7AIKrr13r181BKpzoAI1kH8d05YVlJR/HQE=&p=","osVersion":"10.0.18362.418.19h1_release"},"user":{"locale":"zh-CN"}},
+"referrer":null,
+"serverContext":null,
+"synchronous":false,
+"type":"top",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362"
+}
+
+
+{"/windows/browser/edge/service/navigate/4":{"actions":[{"$type":"cache","key":{"uri":"www.baidu.com/s","inheritance":"none"},"maxAge":100800000000,"serverContext":"1;ca3796b9-65c1-a244-ab2a-bc5289ffa266;PHSH:000;7E-05","responseCategory":"Allowed","result":{"$type":"allow"}},{"$type":"data","id":"synchronousLookupUris","uri":"https://asia.smartscreen-prod.microsoft.com/windows/browser/edge/data/bloomfilter/x?pushCert=false"},{"$type":"ping","uri":"https://asia.smartscreen-prod.microsoft.com/windows/browser/edge/actions?pushCert=false&flight=%7B%22ETag%22%3A%22%5C%22Y%2FWo8IGLzpGqIQZKVgFuub7IytiJ6lWIYUgrgvdE7lc%3D%5C%22%22%2C%22Ids%22%3A%5B%22I-R-32644-4-26%2CI-R-32136-1-7%2CI-D-30652-1-2%22%5D%2C%22Settings%22%3A%7B%22Names%22%3A%5B%22EnableFastPing%22%5D%2C%22Ring%22%3A5%2C%22Models%22%3Anull%2C%22EnableFastPing%22%3Atrue%2C%22ServiceTechScamDetonate%22%3Afalse%2C%22UmsUrfLookup%22%3Afalse%2C%22UrsFastV2%22%3Afalse%7D%7D","timeout":36000000000}],"serverContext":"1;ca3796b9-65c1-a244-ab2a-bc5289ffa266;PHSH:000;7E-05","responseCategory":"Allowed","result":{"$type":"allow"}}}
